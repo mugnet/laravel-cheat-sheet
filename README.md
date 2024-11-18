@@ -1,5 +1,5 @@
 # laravel-cheat-sheet
-
+```php
 php artisan make:policy PostPolicy
 // Displays help for a given command
 php artisan --help OR -h
@@ -174,3 +174,4 @@ php artisan session:table
 // --tag          The tag that has assets you want to publish.
 php artisan vendor:publish [--force] [--provider[="..."]] [--tag[="..."]]
 php artisan tail [--path[="..."]] [--lines[="..."]] [connection]
+```
