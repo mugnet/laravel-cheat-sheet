@@ -1,3 +1,7 @@
+ ![Alt text](https://media.licdn.com/dms/image/v2/D4D03AQEr6648qA0O-A/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1696526152300?e=1737590400&v=beta&t=SyOk750oceMQdehMH-woUvB6Qjvm7E_6thjinar9-dY)
+
+ <img src="https://media.licdn.com/dms/image/v2/D4D03AQEr6648qA0O-A/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1696526152300?e=1737590400&v=beta&t=SyOk750oceMQdehMH-woUvB6Qjvm7E_6thjinar9-dY"/>
+
 # Livewire Seminar Workshop
 ```php
 php artisan make:policy PostPolicy
