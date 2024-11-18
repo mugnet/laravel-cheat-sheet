@@ -1,4 +1,4 @@
-# Laravel 8 Artisan Command Cheat Sheet
+# Livewire Seminar Workshop
 ```php
 php artisan make:policy PostPolicy
 // Displays help for a given command
