@@ -1,4 +1,4 @@
-# laravel-cheat-sheet
+# Laravel 8 Artisan Command Cheat Sheet
 ```php
 php artisan make:policy PostPolicy
 // Displays help for a given command
